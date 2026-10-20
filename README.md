@@ -2,13 +2,9 @@
 
 Нативный интерфейс медицинского приложения на SwiftUI: ближайшая запись к врачу и карточки специалистов.
 
-## Скриншоты
+## Скриншот
 
-Скриншоты работающего приложения в iOS Simulator (iOS 26.4).
-
-| iPhone 17 Pro | iPad Pro 13″ |
-| :---: | :---: |
-| <img src="docs/screenshots/iphone-17-pro.png" alt="Главный экран на iPhone 17 Pro" width="300"> | <img src="docs/screenshots/ipad-pro-13.png" alt="Карточки врачей на iPad Pro 13 дюймов" width="380"> |
+<img src="docs/screenshots/app.png" alt="Главный экран приложения" width="300">
 
 ## Что реализовано
 
@@ -21,7 +17,7 @@
 
 ## Запуск
 
-Требования: macOS, Xcode 26.4 или новее и симулятор либо устройство с iOS/iPadOS 26.4 или новее.
+Требования: macOS, Xcode 26.4 или новее и симулятор либо телефон с iOS 26.4 или новее.
 
 ```bash
 git clone https://github.com/Ceyhun1999/doctor_app.git
